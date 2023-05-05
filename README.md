@@ -2,7 +2,7 @@
 <h3>Shopping App</h3>
 
 <h4>Student Details </h4>
-Student Name: Gbenle Daniel
+Student Name: Akinola Daniel Gbenle
 Student ID: 24180
 
 <h2>About App</h2>
