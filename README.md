@@ -26,8 +26,10 @@ In conclusion, the app provides a seamless shopping experience for users with fe
 
 <h4>App Login Info</h4>
 Username: johnd
+
 Password: m38rmF$
 
 Username: mor_2314
+
 Password: 83r5^_
 
